@@ -1,0 +1,6 @@
+/Users/abt/RiderProjects/sockets/Client1/bin/Debug/Client1.exe
+/Users/abt/RiderProjects/sockets/Client1/bin/Debug/Client1.pdb
+/Users/abt/RiderProjects/sockets/Client1/obj/Debug/Client1.csproj.AssemblyReference.cache
+/Users/abt/RiderProjects/sockets/Client1/obj/Debug/Client1.csproj.CoreCompileInputs.cache
+/Users/abt/RiderProjects/sockets/Client1/obj/Debug/Client1.exe
+/Users/abt/RiderProjects/sockets/Client1/obj/Debug/Client1.pdb
